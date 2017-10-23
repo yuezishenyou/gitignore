@@ -7,4 +7,6 @@ target 'gitignore' do
 
   # Pods for gitignore
 
+   pod 'AFNetworking'
+
 end
